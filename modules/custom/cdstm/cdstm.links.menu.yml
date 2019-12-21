@@ -1,0 +1,14 @@
+
+# Main item entity menu items definition
+entity.main_item_entity.collection:
+  title: 'Main item entity list'
+  route_name: entity.main_item_entity.collection
+  description: 'List Main item entity entities'
+  parent: system.admin_structure
+  weight: 100
+
+main_item_entity.admin.structure.settings:
+  title: 'Main item entity settings'
+  description: 'Configure Main item entity entities'
+  route_name: main_item_entity.settings
+  parent: system.admin_structure

@@ -1,0 +1,20 @@
+add main item entity entities:
+  title: 'Create new Main item entity entities'
+
+administer main item entity entities:
+  title: 'Administer Main item entity entities'
+  description: 'Allow to access the administration form to configure Main item entity entities.'
+  restrict access: true
+
+delete main item entity entities:
+  title: 'Delete Main item entity entities'
+
+edit main item entity entities:
+  title: 'Edit Main item entity entities'
+
+view published main item entity entities:
+  title: 'View published Main item entity entities'
+
+view unpublished main item entity entities:
+  title: 'View unpublished Main item entity entities'
+

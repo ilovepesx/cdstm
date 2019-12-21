@@ -1,0 +1,5 @@
+entity.main_item_entity.add_form:
+  route_name: entity.main_item_entity.add_form
+  title: 'Add Main item entity'
+  appears_on:
+    - entity.main_item_entity.collection
